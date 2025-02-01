@@ -1,0 +1,94 @@
+{
+    "questions": [
+        {
+            "question": "What is the capital of France?",
+            "answers": [
+                { "text": "Berlin", "correct": false },
+                { "text": "Madrid", "correct": false },
+                { "text": "Paris", "correct": true },
+                { "text": "Rome", "correct": false }
+            ]
+        },
+        {
+            "question": "What is 2 + 2?",
+            "answers": [
+                { "text": "3", "correct": false },
+                { "text": "4", "correct": true },
+                { "text": "5", "correct": false },
+                { "text": "6", "correct": false }
+            ]
+        },
+        {
+            "question": "Which planet is known as the Red Planet?",
+            "answers": [
+                { "text": "Earth", "correct": false },
+                { "text": "Mars", "correct": true },
+                { "text": "Jupiter", "correct": false },
+                { "text": "Saturn", "correct": false }
+            ]
+        },
+        {
+            "question": "What is the largest ocean on Earth?",
+            "answers": [
+                { "text": "Atlantic Ocean", "correct": false },
+                { "text": "Indian Ocean", "correct": false },
+                { "text": "Arctic Ocean", "correct": false },
+                { "text": "Pacific Ocean", "correct": true }
+            ]
+        },
+        {
+            "question": "Who wrote 'Romeo and Juliet'?",
+            "answers": [
+                { "text": "Charles Dickens", "correct": false },
+                { "text": "Mark Twain", "correct": false },
+                { "text": "William Shakespeare", "correct": true },
+                { "text": "Jane Austen", "correct": false }
+            ]
+        },
+        {
+            "question": "What is the chemical symbol for gold?",
+            "answers": [
+                { "text": "Au", "correct": true },
+                { "text": "Ag", "correct": false },
+                { "text": "Fe", "correct": false },
+                { "text": "Pb", "correct": false }
+            ]
+        },
+        {
+            "question": "Which element has the atomic number 1?",
+            "answers": [
+                { "text": "Helium", "correct": false },
+                { "text": "Hydrogen", "correct": true },
+                { "text": "Oxygen", "correct": false },
+                { "text": "Carbon", "correct": false }
+            ]
+        },
+        {
+            "question": "What is the largest mammal in the world?",
+            "answers": [
+                { "text": "Elephant", "correct": false },
+                { "text": "Blue Whale", "correct": true },
+                { "text": "Giraffe", "correct": false },
+                { "text": "Great White Shark", "correct": false }
+            ]
+        },
+        {
+            "question": "Which country is known as the Land of the Rising Sun?",
+            "answers": [
+                { "text": "China", "correct": false },
+                { "text": "Japan", "correct": true },
+                { "text": "Thailand", "correct": false },
+                { "text": "South Korea", "correct": false }
+            ]
+        },
+        {
+            "question": "What is the hardest natural substance on Earth?",
+            "answers": [
+                { "text": "Gold", "correct": false },
+                { "text": "Diamond", "correct": true },
+                { "text": "Iron", "correct": false },
+                { "text": "Platinum", "correct": false }
+            ]
+        }
+    ]
+}
